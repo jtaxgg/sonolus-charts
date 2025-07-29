@@ -1,0 +1,14 @@
+{
+  "title": "TOP",
+  "subtitle": "Stray Kids",
+  "author": "jtaxgg",
+  "preview": "musica.mp3",
+  "bg": "portada.jpg",
+  "levels": [
+    {
+      "name": "EXPERT",
+      "difficulty": 26,
+      "file": "nivel.sonolus"
+    }
+  ]
+}
