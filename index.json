@@ -1,0 +1,16 @@
+{
+  "name": "ZoneList",
+  "author": "jtaxgg",
+  "levels": [
+    {
+      "id": "top-nivel-skz",
+      "name": "TOP (Tower of Gods OP)",
+      "artist": "Stray Kids",
+      "cover": "./IMG_6239.jpeg",
+      "audio": "./TOP.mp3",
+      "data": "./top-nivel-skz.sonolus",
+      "engine": "https://sonolus.com/api/engines/sonolus-official",
+      "description": "Level creado por jtaxgg para ZoneList"
+    }
+  ]
+}
